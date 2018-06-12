@@ -1,0 +1,10 @@
+{
+    "name": "Simulator",
+    "references": [
+        "LockstepSystem"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
